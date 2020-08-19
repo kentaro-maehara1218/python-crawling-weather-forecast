@@ -1,2 +1,3 @@
 # python-crawling-weather-forecast
-天気予報サイトをクローリングlineに送る
+天気予報サイトをクローリングして自分のlineに送る
+
